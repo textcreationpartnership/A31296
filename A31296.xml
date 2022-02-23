@@ -1,0 +1,482 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Catalogue of the lords, knights, and gentlemen (of the Catholick religion) that were slain in the late warr, in defence of their king and countrey as also, of those whose estates were sold by the Rump for that cause.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31296</idno>
+            <idno type="STC">Wing C1383</idno>
+            <idno type="STC">ESTC R13230</idno>
+            <idno type="EEBO-CITATION">12334831</idno>
+            <idno type="OCLC">ocm 12334831</idno>
+            <idno type="VID">59754</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59754)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 206:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Catalogue of the lords, knights, and gentlemen (of the Catholick religion) that were slain in the late warr, in defence of their king and countrey as also, of those whose estates were sold by the Rump for that cause.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1653?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Great Britain.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Registers of dead.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:59754:1" rendition="simple:additions"/>
+            <head>A CATALOGUE OF The LORDS, KNIGHTS and GENTLEMEN (of the CATHOLICK RELIGION) that were Slain in the late Warr, in Defence of their KING and Countrey.</head>
+            <head type="sub">As alſo of thoſe whoſe Eſtates were ſold by the Rump for that Cauſe.</head>
+            <epigraph>
+               <bibl>PSAL. III.</bibl>
+               <q xml:lang="lat">In Memoria aeterna erit Juſtus, ab auditione mala non timebit.</q>
+            </epigraph>
+            <div type="part">
+               <list>
+                  <head>Lords.</head>
+                  <item>THe Earle of Carnarvan, ſlain at Newbury firſt battle.</item>
+                  <item>Sir Henry Conſtable L. Viſ<g ref="char:EOLhyphen"/>count Dumbar at Scarborough ſieg and two of his ſons dange<g ref="char:EOLhyphen"/>rouſly wounded.</item>
+                  <item>Marqueſs Vieuville ſlain at New<g ref="char:EOLhyphen"/>bury firſt battle.</item>
+               </list>
+               <list>
+                  <head>Knights.</head>
+                  <item>Sir John Smith Banneret (who re<g ref="char:EOLhyphen"/>ſcued the Kings Standard from the enemy at Edg-hil) ſlain at Alreſ<g ref="char:EOLhyphen"/>ford in Hampſhire.</item>
+                  <item>Sir Henry Gage (Governor of Ox<g ref="char:EOLhyphen"/>ford) at Cullom bridg neer Abing<g ref="char:EOLhyphen"/>don, 11 Jan. 1644.</item>
+                  <item>Sir John Digby received his deaths-wound at Langport in Somerſet<g ref="char:EOLhyphen"/>ſhire.</item>
+                  <item>Sir Peter Brown of Kiddington was wounded at Naisby, died at Northampton.</item>
+                  <item>Sir Nicholas Forteſcu Knight of Malta ſlain in Lancaſhire.</item>
+                  <item>Sir Troylus Turburvil Cap. Lieut, of the Kings Life-guard, ſlain upon <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>eſties marching from Ne<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Oxford.</item>
+                  <item>
+                     <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſton wounded at Furnace <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e died a lingering death, <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtate given to Mr. Pyms <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </item>
+                  <item>Sir Arthur Aſton (Governor of Rea<g ref="char:EOLhyphen"/>ding) ſlain at Tredaugh</item>
+                  <item>Sir Thomas Tildeſley of Meirſcow ſlain at Wiggan.</item>
+                  <item>Sir Henry Slings by beheaded on To<g ref="char:EOLhyphen"/>wer hill.</item>
+                  <item>Major General William Webb ſo wounded at Newbury by caſe ſhot, that he lives a dying life.</item>
+               </list>
+               <list>
+                  <head>Colonels.</head>
+                  <item>Col. Thomas Howard (Son of the Lord William Howard) ſlain at Peirs bridg in Yorkſhire.</item>
+                  <item>Col. Thomas Howard (ſon of Sir Francis Howard) at Atherton Moor, the gaining which Battel was principally aſcribed to his valor.</item>
+                  <item>Col. Thomas Morgan of Weſton in Warwick-ſhire ſlain at Newberry firſt Battel; he raiſed a Regi<g ref="char:EOLhyphen"/>ment of houſe at his own Charge for the King, and his Eſtate was given to Mr. Pyms ſon.</item>
+                  <item>Col. Cuthbert Conniers at Malpaſs.</item>
+                  <item>Col. Thomas Dalton of Thurnham in Lancaſhire, mortally wounded at Newberry 2<hi rend="sup">d</hi>. battel and died at Marlborough.</item>
+                  <item>Col. Francis Hungate of Saxton in the County of York, ſlain at Weſtcheſter.</item>
+                  <item>Col. Poor (Governor of Berkley Ca<g ref="char:EOLhyphen"/>ſtle) neer Lidney.</item>
+                  <item>Col. William Ewre (ſon to the late Lord Ewre) ſlain at Marſton Moor.</item>
+                  <item>Col. Raph Pudſey at. —</item>
+                  <item>Col. Cuthbert Clifton ſlain neer Mancheſter</item>
+                  <item>Col. Caſſey Bental of Bental in Com. Salop, ſlain at Stow in the wolds.</item>
+                  <item>Col. Trollop ſlain at Wiggan.</item>
+                  <item>Col. William Bains at Malpaſs.</item>
+                  <item>Col. William Walton at Tredaugh.</item>
+               </list>
+               <list>
+                  <head>Lieutenant Colonels.</head>
+                  <item>Lieut. Col. Thomas Markham of Allerton in the County of No<g ref="char:EOLhyphen"/>tingham ſlain neer Gainsborough in Lancaſhire.</item>
+                  <item>Lieut. Col. Lancelot Holtby ſlain at Branceford.</item>
+                  <item>Lieut Col. Haggerſton at Preſton in Lancaſhire.</item>
+                  <item>Lieut. Col. Pauyer ar Lincoln.</item>
+                  <item>Lieut. Col. Jordan Metham at Pon<g ref="char:EOLhyphen"/>tefract Caſtle.</item>
+                  <item>Lieut. Col. John Godfrey at Tewks<g ref="char:EOLhyphen"/>bury.</item>
+                  <item>Lieut. Col. George Preſton at Brad<g ref="char:EOLhyphen"/>ford.</item>
+                  <item>Lieut. Col. William Houghton at Newbery.</item>
+                  <item>Lieut. Col. Phillip Howard ſlain at Cheſter Battel.</item>
+                  <item>Lieut. Col. Michael Conſtable of the Sepulchers neer Hull, there alſo.</item>
+                  <item>Lieut. Col. Sayr of Worſam in the County of York at Naisby.</item>
+                  <item>Lieut. Col. Scot at Alesford,</item>
+                  <item>Lieut. Col. Thomas Salvyn at. —</item>
+                  <item>Lieut. Col. Richard Brown at. —</item>
+               </list>
+               <list>
+                  <head>Serjeant Majors.</head>
+                  <item>Maj. Cufaud ſlain at the taking of Bazing Houſe, in cold bloud.</item>
+                  <item>Maj. Richard Harborn wounded at Malpaſs, dy'd at Kendal.</item>
+                  <item>Maj. Thomas Vavaſor at Marſton Moor.</item>
+                  <item>Major Panton wounded at Cover, dy'd at Highmeadow.</item>
+                  <item>Maj. Huddlesſton at York.</item>
+                  <item>Maj. Thomas Ewre at Neubery I.</item>
+                  <item>Maj. Laurence Clifton at Shelford Houſe.</item>
+                  <item>Maj. Thomas Heskith at Malpaſſe.</item>
+                  <item>Maj. William Leak at Newbury I.</item>
+                  <item>Maj. Riveley wounded at Naisby<g ref="char:punc">▪</g> dy'd priſoner at London.</item>
+                  <item>Maj. Richard Sherburn at. —</item>
+                  <item>Maj. Holmby at Henley.</item>
+               </list>
+               <list>
+                  <head>Captains.</head>
+                  <item>Captain Marmaduke Conſtable ſtan<g ref="char:EOLhyphen"/>dard bearer to the Lord Gen. Lindſey, ſlain at edg-hill.</item>
+                  <item>Cap. William Laborn and</item>
+                  <item>Cap. Matthew Anderton at Sheriff<g ref="char:EOLhyphen"/>hutton in Yorkſhire.</item>
+                  <item>Cap. Joſeph Conſtable at Newberry firſt Battel.</item>
+                  <item>Cap. Thurſtan Anderton wounded at Newberry, dy'd at Oxford</item>
+                  <item>Cap. H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ggerſton (eldeſt ſon of Sir Thomas) in Lancaſhire.</item>
+                  <item>Cap. Anth. Rigby at Bazing houſe.</item>
+                  <item>Cap. Matthew Ratclif at. —</item>
+                  <item>Cap. Richard Bradford at. —</item>
+                  <item>Cap. Kenelm Digby (eldeſt ſon of Sir Kenelm) raiſed a Troop of horſe at his own charge, and was ſlain at St. Neotes.</item>
+                  <item>Cap. Ratclif Houghton at Preſton.</item>
+                  <item>Cap. Robert Molineux of the Wood in Lancaſhire at Newberry I.</item>
+                  <item>Cap. Charles Thimelby at Worce<g ref="char:EOLhyphen"/>ſter.</item>
+                  <item>Cap. Robert Townſend at Edg-hill.</item>
+                  <item>Cap. Matthew Ratclif neer Henley.</item>
+                  <item>Cap. Richard Wolfole at Newberry.</item>
+                  <item>Cap. Anthony Awd at Newark.</item>
+                  <item>Cap. Thomas Cole at Newark.</item>
+                  <item>Cap. Patiſon at wiggan.</item>
+                  <item>Cap. Maximilian Nelſon ſlain at Marſton Moor.</item>
+                  <item>Cap. Francis Godfrey ſlain at Sher<g ref="char:EOLhyphen"/>burn.</item>
+                  <item>Cap. Thomas Meynel of Kilving<g ref="char:EOLhyphen"/>ton in Yorkſhire ſlain at Ponte<g ref="char:EOLhyphen"/>fract.</item>
+                  <item>Cap. John Clifton at Shelford houſe.</item>
+                  <item>Cap. Abraham Lance at Rowton in Cheſhire.</item>
+                  <item>Cap. Robert Lance at Rowton in Cheſhire.</item>
+                  <item>Cap. Anthony Hamerton neer Man<g ref="char:EOLhyphen"/>cheſter.</item>
+                  <item>Cap. William Symcots, Cap. Lieut. to the Lord Peircies Troop, ſlain at Newberry I.</item>
+                  <item>Cap. Thomas Singleton of Stayning in the County of Lancaſter at Newberry I.</item>
+                  <item>Cap. Francis Errington of Denton in Northumberland at Rotheram.</item>
+                  <item>Cap. Michael Fitzakerly at Lever<g ref="char:EOLhyphen"/>pool.</item>
+                  <item>Cap. Gilbert Markham (brother to Lieut. Col Markham) at Naisby.</item>
+                  <item>Cap. Francis Clifton at Newberry I.</item>
+                  <item>Cap. John Lance at Islip.</item>
+                  <item>Cap. George Caſſey ſlain by the Scots at Hereford.</item>
+                  <item>Cap. Langdale ſlain at Creekhowel in Wales.</item>
+                  <item>Cap. Carver in Monmouthſhire.</item>
+                  <item>Cap. John Lingen at Ledbury.</item>
+                  <item>Cap. Samwayes at Newberry.</item>
+                  <item>Cap. John Plumpton (eldeſt ſon of Sr. Edward Plumpton of Plump<g ref="char:EOLhyphen"/>ton) ſlain at York.</item>
+                  <item>Cap. Peter Forcer at. —</item>
+                  <item>Cap. Thomas Whittingham at Newberry.</item>
+                  <item>Cap. Winkley at Leverpool.</item>
+                  <item>Cap. Thomas Anderton at. —</item>
+                  <item>Cap. John Tempeſt at. —</item>
+                  <item>Cap. Richard Walmſley at Ormſ<g ref="char:EOLhyphen"/>church.</item>
+                  <item>Cap. John Swinglehurſt at Marſton Moor.</item>
+                  <item>Cap. John Butler at Marſton Moor.</item>
+                  <item>Cap. George Holden at Uske.</item>
+                  <item>Cap. Richard Latham at Litchfield.</item>
+                  <item>Cap. Thomas Charnock at. —</item>
+                  <item>Cap. Thomas Hesketh at Brindle.</item>
+                  <item>Cap John Knipe at Brindle.</item>
+                  <item>Cap. Thomas Eccleſton at. —</item>
+                  <item>Cap. John Hotherſal at Grenoo Caſtle.</item>
+                  <item>Cap. Nich. Anderton at Grenoo Caſtle.</item>
+                  <item>Cap. Anthony Girlington at Lanca<g ref="char:EOLhyphen"/>ſter.</item>
+                  <item>Cap. Chriſtopher Wray at Bradford.</item>
+               </list>
+               <list>
+                  <head>Inferior Officers.</head>
+                  <item>Lieut. William Butler at Newberry.</item>
+                  <item>Lieut. Richard Osbalſton at Leeds.</item>
+                  <item>Lieut. George Hotherſal at Lever<g ref="char:EOLhyphen"/>pool.</item>
+                  <item>Lieut. William Girlington at. —</item>
+                  <item>Lieut. John Kulcheth at Worral.</item>
+                  <item>Lieut. William Singleton at Mar<g ref="char:EOLhyphen"/>ſton.</item>
+                  <item>Lieut. Peter Boardman at Bradford.</item>
+                  <item>Cornet William Culcheth at New<g ref="char:EOLhyphen"/>berry.</item>
+                  <item>Cor. Dein<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on at Cardiff.</item>
+                  <item>Cor. Robert Lance in Cheſhire.</item>
+                  <item>Cor. Edward Walker at Burton.</item>
+               </list>
+               <list>
+                  <head>Gentlemen Voluntiers.</head>
+                  <item>Mr. Edward <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>albot brother to the now Earle of <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rewsbury, ſlain at Marſton Moor.</item>
+                  <item>Charles Townley of Townley in the County of Lancaſter, ſlain at Marſton moor.</item>
+                  <item>Mr. Charles Sherburn there alſo.</item>
+                  <item>Mr. Nicholas Thimelby at Briſtow.</item>
+                  <item>Mr. Robert Bowles at Bazzing.</item>
+                  <item>Mr. William Stoner at Bazzing.</item>
+                  <item>Mr. Price of Waſhingley in North<g ref="char:EOLhyphen"/>hamptonſhire ſlain at Lincoln in cold bloud.</item>
+                  <item>Mr. Cuthbert Ratcliff ſlain at New<g ref="char:EOLhyphen"/>caſtle by the Scots.</item>
+                  <item>Mr. Thomas Latham of Mosbo<g ref="char:EOLhyphen"/>rough at Newark.</item>
+                  <item>Mr. Andrew Giffard at Hampton.</item>
+                  <item>M. Lewis Blount at Mancheſter.</item>
+                  <item>
+                     <list>
+                        <head> at Shelford houſe.</head>
+                        <item>Mr. Cary and</item>
+                        <item>Mr. Gennyngs</item>
+                     </list>
+                  </item>
+                  <item>Mr. James Anderton in Wales.</item>
+                  <item>Mr. Thomas Roper at Gootheridg.</item>
+                  <item>Mr. Stephen Pudſey in Holderneſs.</item>
+                  <item>Mr. Francis Pavier at Marſton.</item>
+                  <item>Mr. Boniface Kemp ſlain neer York in cold bloud.</item>
+                  <item>Mr. Ildeſons Hesket ſlain neer York in cold bloud.</item>
+                  <item>Mr. Mich. Wharton at Scaborough.</item>
+                  <item>Mr. Errington at Cheſter.</item>
+                  <item>Thomas Weſtby Doctor of Phyſick ſlain at Preſton.</item>
+                  <item>Mr. Peter Davis at Denbigh.</item>
+                  <item>Mr. Edward Davis at Cheſter.</item>
+                  <item>Mr. Bret at —</item>
+                  <item>Mr. Roger Wood at Cheſter.</item>
+                  <item>Mr. Henry Lawſon at Melton.</item>
+                  <item>Mr. Thomas Craithorn the elder at Uphaven in Wiltes.</item>
+                  <item>Three ſons of Mr. Kirby of Raw<g ref="char:EOLhyphen"/>clif.</item>
+                  <item>
+                     <list>
+                        <head>Eſquries at Pre<g ref="char:EOLhyphen"/>ſton.</head>
+                        <item>John Witham </item>
+                        <item>William Selby</item>
+                     </list>
+                  </item>
+               </list>
+               <epigraph>
+                  <bibl>John 15.13.</bibl>
+                  <q>Greater love then this no man hath then that one lay down his life for his friends.</q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <head>The Names of ſuch <hi>Catholicks</hi> whoſe Eſtates (both Real and Perſonal) were ſold, in perſuance of an Act made by the Rump, <date>
+                     <hi>July</hi> 16. 1651.</date> for their pretended Delinquency; that is, for adhering to their King.</head>
+               <list>
+                  <item>The Marqueſs of Wincheſter, who ſo valiantly defended Bazing Houſe.</item>
+                  <item>The Marqueſs of Worceſter, who has been at leaſt 300000 l. loſer by the War.</item>
+                  <item>Francis Lord Cottington.</item>
+                  <item>Lord John Somerſet.</item>
+                  <item>Sir John Winter, who ſo ſtoutly defended Lidney houſe.</item>
+                  <item>Sir Marmaduke Langdale a faithfull and indefatigable Commander.</item>
+                  <item>Sir Thomas Tildeſley himſelf ſlain, and his Eſtate ſold.</item>
+                  <item>Sir Henry Slingsby beheaded at To<g ref="char:EOLhyphen"/>wer hill, and his Eſtate ſold.</item>
+                  <item>Sir Peircy Herbert now Lord Po<g ref="char:EOLhyphen"/>wys.</item>
+                  <item>Sir Francis Howard.</item>
+                  <item>Sir Henry Bedingfeild.</item>
+                  <item>Sir Arthur Aſton Governor of Rea<g ref="char:EOLhyphen"/>ding.</item>
+                  <item>Sir Thomas Haggerſton.</item>
+                  <item>
+                     <list>
+                        <head>Eſquries.</head>
+                        <item>Roger Bodenham</item>
+                        <item>Charles Townley</item>
+                        <item>Rowland Eyre</item>
+                        <item>Peter Pudſey</item>
+                        <item>John Giffard</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Other Catholicks, whoſe Eſtat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s were ſold by an aditional Act made <date>Auguſt 4. 1652.</date>
+               </head>
+               <list>
+                  <item>Henry Lord Viſcount Dumbar and his ſon.</item>
+                  <item>Sir Walter Vavaſour.</item>
+                  <item>Sir Edward Ratcliff.</item>
+                  <item>
+                     <list>
+                        <head>
+                           <abbr>Eſq</abbr>
+                        </head>
+                        <item>Thomas Clifton</item>
+                        <item>Peter Giffard of Chillington</item>
+                        <item>Walter Fowler of St. Th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>mas</item>
+                        <item>Thomas Brook of Madeley</item>
+                        <item>Fran. Biddulph of Biddulph</item>
+                        <item>Will. Middleton of Stocton</item>
+                        <item>Lancelot Errington</item>
+                        <item>Nicholas Errington</item>
+                        <item>Henry Errington</item>
+                        <item>John Jones of Dingeſtow</item>
+                        <item>John Weſton</item>
+                        <item>Phillip Hungate</item>
+                        <item>Robert Dolman</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Gentlemen.</head>
+                        <item>Richard Maſſey</item>
+                        <item>George Smyth</item>
+                        <item>Ralph Pudſey</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div type="part">
+               <head>More Catholicks whoſe Eſtates were ſold by another Act made
+<date>
+                     <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> 18. 165<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </head>
+               <list>
+                  <item>Henry Lord Arundel of Wardor, who raiſed a Regiment of horſe for the King, and whoſe Lady-Mother ſo gallantly defended Wardor Caſtle againſt Sir Edward Hungerford.</item>
+                  <item>Henry Lord Morley and Monteagle.</item>
+                  <item>William Lord Ewre.</item>
+                  <item>William Lord Powis.</item>
+                  <item>Lord Charles Somerſet.</item>
+                  <item>Sir Walter Blount a long Priſoner in the Tower.</item>
+                  <item>Sir Edward Widdrington who raiſed a Regiment of horſe.</item>
+                  <item>Sir Richard Tichburn.</item>
+                  <item>Sir Charles Blount (ſlain alſo by one of his own Captains.)</item>
+                  <item>Sir John Clavering his eſtate ſold, and he dyed Priſoner at London.</item>
+                  <item>Sir John Thimelby.</item>
+                  <item>Sir Philip Conſtable.</item>
+                  <item>Sir Edward Plumpton.</item>
+                  <item>Sir Nicholas Thornton, who raiſed a Troop of horſe at his own charge.</item>
+                  <item>Sir Edward Charlton.</item>
+                  <item>William Sheldon of Beoly in the County of Worceſter Eſquires.</item>
+                  <item>
+                     <list>
+                        <head> Eſquires.</head>
+                        <item>William Gage of Bentley</item>
+                        <item>Thomas Clavering</item>
+                        <item>John Plumpton</item>
+                        <item>Robert Wigmore of Lucton</item>
+                        <item>Robert Cramblington</item>
+                        <item>William Sherburn.</item>
+                        <item>John Conſtable</item>
+                        <item>Richard Latham</item>
+                        <item>William Bawd</item>
+                        <item>James Anderton of Birchley</item>
+                        <item>Thomas Singleton</item>
+                        <item>John Talbot</item>
+                        <item>Nicholas Fitzakerſy</item>
+                        <item>John Peircy</item>
+                        <item>Tho. Acton of Burton</item>
+                     </list>
+                  </item>
+                  <item>
+                     <list>
+                        <head>Gentlemen, &amp;c. with many more.</head>
+                        <item>Ralph Riſhton</item>
+                        <item>William Floyer</item>
+                     </list>
+                  </item>
+               </list>
+               <p>Note that divers of theſe loſt their lives as well as eſtates, in the Ser<g ref="char:EOLhyphen"/>vice.</p>
+               <p>Mr. John Barlow of Pembrookſhire, his whole eſtate (being at leaſt 1500 l. per annum) was given to Col. <hi>Horton</hi> and Cap. <hi>Nicholas,</hi> without allowance of any fifths or other ſuſtenance for his wife and many Children.</p>
+               <epigraph>
+                  <bibl>Pſal. 118.20.</bibl>
+                  <q xml:lang="lat">Feci judicium &amp; Juſtitiam, non tra<g ref="char:EOLhyphen"/>das me calumniantibus me.</q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
